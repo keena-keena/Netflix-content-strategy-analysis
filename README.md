@@ -17,11 +17,12 @@ All figures are share of **titles** added to the catalogue, not viewing.
 
 **1. TV share of titles rose across release-year groups**
 
-| Release years | TV share | Movie share |
-| :--- | :---: | :---: |
-| Before 2000 | 9.3% | 90.7% |
-| 2000-2015 | 22.5% | 77.5% |
-| 2016 onwards | 36.0% | 64.0% |
+| Release year | TV share | Movie share |
+| :---: | :---: | :---: |
+| 2000 | 10.8% | 89.2% |
+| 2010 | 20.6% | 79.4% |
+| 2020 | 45.8% | 54.2% |
+| 2021 (partial year) | 53.2% | 46.8% |
 
 By single year, TV share went from 20.6% (2010) to 53.2% (2021, partial year).
 
